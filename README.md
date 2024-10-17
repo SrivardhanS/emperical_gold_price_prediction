@@ -1,6 +1,6 @@
 # 📈 Gold Price Prediction Model
 
-This project uses **Random Forest Regression** to predict gold prices based on several financial indicators. The model is trained on historical data and performs predictions on unseen data, providing accurate estimates of the gold price given certain inputs.
+This project leverages **Random Forest Regression** to forecast gold prices by analyzing key financial indicators. By training on historical data, the model delivers **precise predictions for future gold prices**, offering insightful and reliable estimates based on input factors. Whether for investment analysis or market strategy, this model provides a powerful tool for anticipating gold price trends.
 
 ## ✨ Features
 - **Predicts Gold Prices** based on input financial indicators such as:
